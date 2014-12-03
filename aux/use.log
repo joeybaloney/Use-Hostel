@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.8.14)  7 NOV 2014 03:44
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.8.14)  3 DEC 2014 06:13
 entering extended mode
  %&-line parsing enabled.
 **use
@@ -94,7 +94,11 @@ Chapter 7.
 Chapter 8.
 [20
 
-] [21] (aux/use.aux) ) 
+] [21]
+Chapter 9.
+[22
+
+] (aux/use.aux) ) 
 Here is how much of TeX's memory you used:
  264 strings out of 495062
  2770 string characters out of 1182644
@@ -104,4 +108,4 @@ Here is how much of TeX's memory you used:
  28 hyphenation exceptions out of 8191
  23i,9n,19p,158b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on aux/use.dvi (22 pages, 62264 bytes).
+Output written on aux/use.dvi (23 pages, 65136 bytes).
